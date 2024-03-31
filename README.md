@@ -1,5 +1,5 @@
 # 💫 Hi i'm ayanSCCYY:
-🔭 First-year student, currently working on projects using react and node on the backend.<br>💻Currently persuing b.tech from NIT RKL<br>🌱I’m currently learning, next JS and concepts of angular.<br>💬 Open to collaboration on projects using JS frameworks.<br>
+🔭 First-year student, currently working on projects using react and node on the backend.<br>💻Currently persuing b.tech from NIT RKL<br><br>💬 Open to collaboration on projects using JS frameworks.<br>
 
 
 ## 🌐 Socials:
